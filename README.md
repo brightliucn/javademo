@@ -1,2 +1,2 @@
 # javademo
-各种java项目的demo
+各种java项目的demo,所有的项目使用maven管理，可以使用eclipse或者其他IDE导入maven项目
